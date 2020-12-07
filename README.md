@@ -1,6 +1,6 @@
 ## CNN Wafer Inspection Results
 
-Graphs showing the results obtained using a learning rate of 0.0001, the adam optimizer, and 128 neurons in a fully connected layer, for:
+Model's accuracy vs Epochs' graphs showing the results obtained using a learning rate of 0.0001, the adam optimizer, and 128 neurons in a fully connected layer, for:
 1. Categorical Classification for the entire dataset
 ![](results/categorical_entire_dataset.png)
 2. Categorical Classification for the entire dataset (to distinguish between the different failure modes and not-failed), and additionally using data augmentation - horizontal and vertical flips
